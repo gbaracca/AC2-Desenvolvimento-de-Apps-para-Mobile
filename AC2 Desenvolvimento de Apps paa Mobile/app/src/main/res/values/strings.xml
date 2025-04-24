@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_medication">Adicionar Medicamento</string>
+    <string name="delete">Excluir</string>
+    <string name="mark_taken">Marcar como tomado</string>
+    <string name="edit">Editar</string>
+    <string name="confirm_delete">Confirmar Exclusão</string>
+    <string name="confirm_delete_msg">Tem certeza que deseja excluir %1$s?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="deleted">Medicamento excluído com sucesso!</string>
+</resources>
